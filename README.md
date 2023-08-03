@@ -82,12 +82,4 @@ Feel free to explore the code, analysis, and models provided in this repository.
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Itay Young: [itayyoung](https://github.com/itayyoung)
 
-Pedro Esteban: [callysthenes](https://github.com/Callisthenes)
-
-Stephanie Gessler: [steguess](https://github.com/steguess)
-
-Salma Guendy : https://github.com/salmaelguendy
-
-Connie Kim
