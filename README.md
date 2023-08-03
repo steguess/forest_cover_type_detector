@@ -63,8 +63,7 @@ Feel free to explore the code, analysis, and models provided in this repository.
 
 ## Authors 📚
 
-
-:tada:
+ :tada:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -73,15 +72,21 @@ Feel free to explore the code, analysis, and models provided in this repository.
   <tr>
     <td align="center"><a href="https://github.com/itayyoung"><img src="https://avatars.githubusercontent.com/u/108944195?v=4" width="100px;" alt="Itay Young"/><br /><sub><b>Itay Young</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=NinoMaj" title="Data Analyst">📊</a></td>
     <td align="center"><a href="https://github.com/Callisthenes"><img src="https://avatars.githubusercontent.com/u/91435423?v=4" width="100px;" alt="Pedro Esteban"/><br /><sub><b>Pedro Esteban</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=saurabhdaware" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=pablopunk" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/salmaelguendy"><img src="https://avatars.githubusercontent.com/u/98765432?v=4" width="100px;" alt="Salma Guendy"/><br /><sub><b>Salma Guendy</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=ryanpwaldon" title="Creative Contributor">🎨</a></td>
     <td align="center"><a href="https://github.com/conniekim"><img src="https://avatars.githubusercontent.com/u/19283746?v=4" width="100px;" alt="Connie Kim"/><br /><sub><b>Connie Kim</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=cherniavskii" title="Writer">✍️</a></td>
   </tr>
 </table>
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+
+
+---
+
+This updated README section acknowledges the contributions of the project's contributors, along with their respective roles and icons representing their contributions. Feel free to customize the content and style further as needed for your project.
 
 
 
