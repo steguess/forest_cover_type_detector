@@ -90,8 +90,6 @@ Feel free to explore the code, analysis, and models provided in this repository.
 
 ---
 
-This updated README section acknowledges the contributions of the project's contributors, along with their respective roles and icons representing their contributions. Feel free to customize the content and style further as needed for your project.
-
 
 
 
